@@ -17,7 +17,17 @@ var friendHobby2 = "السباحة"
 
 var age_difference = age - friendAge
 
-height != friendHeight
-age == friendAge
+height == friendHeight
+height <= friendHeight
 height >= friendHeight
+height < friendHeight
+height > friendHeight
+height != friendHeight
+
+age == friendAge
+age <= friendAge
+age >= friendAge
+age < friendAge
+age > friendAge
+age != friendAge
 
