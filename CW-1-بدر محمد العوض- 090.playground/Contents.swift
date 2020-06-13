@@ -31,3 +31,23 @@ age < friendAge
 age > friendAge
 age != friendAge
 
+name == friendName
+name <= friendName
+name >= friendName
+name < friendName
+name > friendName
+name != friendName
+
+hobby1 == friendHobby1
+hobby1 <= friendHobby1
+hobby1 >= friendHobby1
+hobby1 < friendHobby1
+hobby1 > friendHobby1
+hobby1 != friendHobby1
+
+hobby2 == friendHobby2
+hobby2 <= friendHobby2
+hobby2 >= friendHobby2
+hobby2 < friendHobby2
+hobby2 > friendHobby2
+hobby2 != friendHobby2
