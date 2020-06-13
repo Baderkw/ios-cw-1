@@ -9,7 +9,7 @@ print("السلام عليكم، اسمي \(name) انا احب \(hobby1) و \(h
 
 
 
-let friendName = "علي العوض"
+let friendName = "علي محمد"
 var friendHeight = 1.76
 var friendAge = 17
 var friendHobby1 = "لعب العاب الفيديو"
